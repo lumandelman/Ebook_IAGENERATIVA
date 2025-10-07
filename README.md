@@ -15,8 +15,8 @@ Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-|        | Crie um fundo com tons de vermelho escuro e preto, com um brilho metálico ou efeito de luz digital.
-|        | A imagem central: uma silhueta humana ou rosto dividido metade humano, metade IA (com circuitos).
+|          Crie um fundo com tons de vermelho escuro e preto, com um brilho metálico ou efeito de luz digital.
+|          A imagem central: uma silhueta humana ou rosto dividido metade humano, metade IA (com circuitos).
    título| Elementos visuais: linhas de código em transparência, hologramas de bancos de dados, gráficos financeiros digitais.
 
 
